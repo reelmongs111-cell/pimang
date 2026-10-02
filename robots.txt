@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akgame365.isweb.co.kr/sitemap.xml
